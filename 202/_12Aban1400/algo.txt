@@ -1,0 +1,9 @@
+start
+read a,b
+if a>b:
+print a is gt
+else if a == b:
+print shookhit gerefte!!!
+else
+print b is gt
+end
