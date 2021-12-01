@@ -14,7 +14,7 @@ elif(age >= 40):
 #         print("marizi??")
 
 elif(age >= 30):
-    isMarried = str(input("ezdevaj kardi ya na?? "))
+    isMarried = str(input("ezdevaj kardi ya na?? ")).lower()
     if(isMarried == 'y' or isMarried =='yes' or isMarried == 'bale'):
         print("che khabara??!!!!")
     elif(isMarried == 'n' or isMarried == 'no' or isMarried == 'na'):
