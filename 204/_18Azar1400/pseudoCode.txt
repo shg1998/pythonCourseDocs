@@ -1,0 +1,12 @@
+start
+Read age
+if age > 90:
+print "khoda omret bede"
+else if age>50:
+print "bazneshaste"
+else if age > 25 : 
+print "Ezdevaj kardi?"
+else if age > 19:
+print "sarbazi che khabara"
+else 
+print "che khabara??"

@@ -1,0 +1,10 @@
+start
+Read A
+Read B
+if A < B :
+print A
+else if B < A:
+print B
+else :
+print "divane ii"
+end
