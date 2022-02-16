@@ -1,0 +1,8 @@
+start
+read r
+if r>0:
+s = 3.14 * r * r
+p = 2 * 3.14 * r
+print(s,p)
+else:
+print bia paein
