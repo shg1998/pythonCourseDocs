@@ -1,0 +1,9 @@
+start
+read R
+if R > 0 : 
+mohit = 2 * 3.14 * R
+masahat = 3.14 * R **2
+print(mohit)
+print(masahat)
+else:
+print eshtebah
